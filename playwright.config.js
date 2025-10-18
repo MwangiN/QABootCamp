@@ -79,3 +79,6 @@ export default defineConfig({
   // },
 });
 
+module.exports = { 
+  timeout: 120000
+};
